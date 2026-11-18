@@ -1,5 +1,5 @@
 # finmagnat.github.io
-Publisher website for Sokolov — Unity tools and game development.
+Yuriy Kobylyatski’s publisher site for Unity tools and product support.
 
 Static HTML/CSS with no build step, JavaScript, or external dependencies.
 Edit `index.html` to update content or add product articles; edit `styles.css` for styling.
